@@ -10,7 +10,7 @@
 
 ### 使用技術:
 * **Data Cleaning: Python Pandas,Numpy**
-* **Data visualization:Python Matplotlib,seaborn；Tableau**
+* **Data Visualization:Python Matplotlib,seaborn；Tableau**
 
 ### 成果:
 [觀看儀錶板](https://public.tableau.com/shared/JPRJ3Y9TC?:display_count=n&:origin=viz_share_link)
